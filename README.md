@@ -15,7 +15,7 @@ First clone the project.
 git clone https://github.com/xfffx/Intrusion-Detection-System.git
 cd Intrusion-Detection-System
 ```
-
+After cloning the project, download CICFlowMeter to the network sniffer/ directory. Refer to [the CSDN tutorial](https://blog.csdn.net/weixin_35757704/article/details/144826273)  for detailed download and configuration instructions.
 
 
 # Project Structure
